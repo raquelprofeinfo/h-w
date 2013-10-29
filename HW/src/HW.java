@@ -1,4 +1,3 @@
-
 public class HW {
 
 	public static void main(String[] args) {
@@ -6,6 +5,7 @@ public class HW {
 		System.out.println("HW");
 		System.out.println("HW");
 		System.out.println("HW");
+		System.out.println("Update from GitHub");
 	}
 
 }
